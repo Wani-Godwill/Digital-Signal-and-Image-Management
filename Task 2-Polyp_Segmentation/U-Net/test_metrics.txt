@@ -1,0 +1,3 @@
+loss: 0.2836
+dice_coeff: 0.7974
+iou_coeff: 0.6687
